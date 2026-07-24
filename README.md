@@ -3,4 +3,4 @@
 <p>Tenho 17 anos<p/>
 Estudo Desenvolvimento de Sistemas no Senai
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain.svg" />
