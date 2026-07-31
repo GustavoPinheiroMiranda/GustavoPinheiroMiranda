@@ -8,4 +8,14 @@ Estudo Desenvolvimento de Sistemas no Senai
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain.svg" />
 
 </div>
+📊 GitHub Stats
+
+<p>
+<div>
+
+<img height="180em" src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=GustavoPinheiroMiranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="hhttps://github-readme-stats-psi-smoky-68.vercel.app/api?username=GustavoPinheiroMiranda&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
 
