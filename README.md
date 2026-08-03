@@ -7,8 +7,8 @@ Estudo Desenvolvimento de Sistemas no Senai
   
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain.svg" />
 
-</div>
-📊 GitHub Stats
+</div> 
+# 📊 GitHub Stats
 
 <p>
 <div>
