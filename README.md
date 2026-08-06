@@ -3,11 +3,9 @@
 <p>Tenho 17 anos<p/>
 Estudo Desenvolvimento de Sistemas no Senai
 
-<div>
-  
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain.svg" />
 
-</div> 
+
+
 
 # 📊 GitHub Stats
 
