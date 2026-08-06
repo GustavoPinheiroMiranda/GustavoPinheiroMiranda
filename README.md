@@ -32,6 +32,5 @@ Estudo Desenvolvimento de Sistemas no Senai
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/GustavoPinheiroMiranda/GustavoPinheiroMiranda/snake-output/snake.svg" alt="Snake animation" />
 
 ###
