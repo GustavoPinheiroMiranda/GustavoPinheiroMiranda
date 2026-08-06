@@ -4,6 +4,8 @@
   Tenho 17 anos<p/>
 Estudo Desenvolvimento de Sistemas no Senai
 <p/>
+
+  # Onde me Encontrar
 <div data-importer="socials" align="left">
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25" alt="discord logo"  />
@@ -16,7 +18,7 @@ Estudo Desenvolvimento de Sistemas no Senai
 ###
 
 
-
+<p>
 
 # 📊 GitHub Stats
 
