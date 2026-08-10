@@ -6,9 +6,7 @@ Estudo Desenvolvimento de Sistemas no Senai
 <p/>
 
   # Onde me Encontrar
-<div data-importer="socials" align="left">
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25" alt="discord logo"  />
+
   </a>
   <a href="https://www.instagram.com/gu.yxz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
