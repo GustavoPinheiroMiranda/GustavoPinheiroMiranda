@@ -5,6 +5,12 @@
 Estudo Desenvolvimento de Sistemas no Senai
 <p/>
 
+# Conhecimentos adquiridos :
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp)](https://skillicons.dev)
+          
+          
+
   # Onde me Encontrar
 
   </a>
