@@ -5,13 +5,13 @@
 Estudo Desenvolvimento de Sistemas no Senai
 <p/>
 
-# Conhecimentos adquiridos :
+# Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp)](https://skillicons.dev)
           
           
 
-  # Onde me Encontrar
+  # Fale Comigo
 
   </a>
   <a href="https://www.instagram.com/gu.yxz/" target="_blank">
@@ -21,7 +21,12 @@ Estudo Desenvolvimento de Sistemas no Senai
 
 ###
 
-
+<p>
+  
+# Certificados
+  
+</p>
+  
 <p>
 
 # 📊 GitHub Stats
