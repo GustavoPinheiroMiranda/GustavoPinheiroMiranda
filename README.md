@@ -25,7 +25,9 @@ Estudo Desenvolvimento de Sistemas no Senai
   
 # Certificados
 
-
+<a href="https://www.credly.com/badges/e20e3d69-5f68-4ff0-a9a5-984b0c5f2c2f/public_url">
+  <img src="./linux-unhatched.png" width="80" alt="Linux Unhatched">
+</a>
 
 
 # 📊 GitHub Stats
