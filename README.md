@@ -24,10 +24,7 @@ Estudo Desenvolvimento de Sistemas no Senai
 <p>
   
 # Certificados
-  
-</p>
-  
-<p>
+
 
 
 
