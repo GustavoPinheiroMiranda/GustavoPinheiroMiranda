@@ -29,6 +29,10 @@ Estudo Desenvolvimento de Sistemas no Senai
   
 <p>
 
+# 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/GustavoPinheiroMiranda/GustavoPinheiroMiranda/snake-output/snake.svg)
+
 # 📊 GitHub Stats
 
 <p>
