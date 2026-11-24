@@ -7,7 +7,7 @@ Estudo Desenvolvimento de Sistemas no Senai
 
 # Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,linux,aws,c,git,vscode)](https://skillicons.dev)
           
           
 
